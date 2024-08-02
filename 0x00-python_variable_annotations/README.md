@@ -1,32 +1,4 @@
-<!-- README for Python Tasks -->
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        h2 {
-            color: #2c3e50;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        code {
-            font-family: Consolas, "Courier New", monospace;
-        }
-    </style>
-</head>
-<body>
-
+<h1>0x00. Python - Variable Annotations</h1>
 <h2>Task 0: Add Function</h2>
 <p>Adds two floating-point numbers.</p>
 <pre><code>def add(a: float, b: float) -> float:
