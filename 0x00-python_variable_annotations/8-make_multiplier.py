@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-'''Task 8's module.
+'''
+Task 8's module.
 '''
 from typing import Callable
 
